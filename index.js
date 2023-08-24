@@ -6,6 +6,7 @@ const countries = [
     "Norway",
     "Iceland",
     "Ireland",
+    "Pakistan",
   ];
   countries.forEach((element, index) => console.log(element, index));
       console.log(countries);
