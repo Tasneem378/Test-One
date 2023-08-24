@@ -1,7 +1,7 @@
 // 3-QUESTION.Use forEach to console.log each country in the countries array.
 const countries = [
     "Finland",
-    "Sweden",
+    "India",
     "England",
     "Norway",
     "Iceland",
