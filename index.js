@@ -10,4 +10,4 @@ const countries = [
   ];
   countries.forEach((element, index) => console.log(element, index));
       console.log(countries);
-console.log('Day20Question10')
+console.log('Day20-Question10')
